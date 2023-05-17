@@ -6,9 +6,9 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 
 **More About Me**:
 
-- VLSI Design
 - Computer Organization and Architecture
-- Looking for Research Internships
+- VLSI Design
+
 
 **Contact Me**:
 
