@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitgn.ac.in/).
+I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitgn.ac.in/), and a research intern at EPFL.
 
 <br>
 
